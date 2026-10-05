@@ -26,5 +26,5 @@ This program searches input text for a specified string and highlights matching 
 - String Processing
 - Dynamic Memory
 
-Academic Context
+## Academic Context
 This project was completed as part of Penn State's CMPSC 311 coursework.
